@@ -1,0 +1,6 @@
+{
+  "name": "TG Global",
+  "description": "Uma plataforma de rede social dinâmica estilo Facebook, com interface de alto polimento, estrutura MVC (Models, Views, Controllers), feeds de publicações, comentários, curtidas, stories, chat em tempo real e perfis de usuário.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
